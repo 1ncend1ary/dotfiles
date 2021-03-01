@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<map name="AboutBorderlessWindow">
+		<binary name="windowGeometry">%00%00%00%13%00%00%00%02%9F%00%00%01%C7%00%00%04%E0%00%00%02p</binary>
+		<value name="windowVisibility">0</value>
+	</map>
+	<map name="BorderlessWindow">
+		<binary name="windowGeometry">%00%00%00%13%00%00%00%00B%00%00%00%A3%00%00%05A%00%00%03%DD</binary>
+		<value name="windowVisibility">0</value>
+	</map>
+	<map name="CommonSettings">
+		<value name="StartOnStartup">false</value>
+	</map>
+	<map name="DataCollection">
+		<value name="connected_device_list_changed_between_sessions">true</value>
+		<value name="cpu_1_frequency">3,99 GHz</value>
+		<value name="cpu_1_name">Intel Core i7</value>
+		<value name="cpu_1_number_of_cores">4</value>
+		<value name="display_1_resolution">1920_1080 @ 60 Hz</value>
+		<value name="enabled_sdk">true</value>
+		<value name="first_appearance_at">2021-02-05T14:00:56.878Z</value>
+		<value name="first_icue_ver">3.37.140</value>
+		<value name="gpu_1_driver_version">No information was collected</value>
+		<value name="gpu_1_frequency">No information was collected</value>
+		<value name="gpu_1_name">NVIDIA GeForce GTX 970</value>
+		<value name="gpu_1_ram_size">0</value>
+		<value name="gpu_1_ram_type">No information was collected</value>
+		<value name="icue_space_opened">false</value>
+		<value name="icue_sw_language">en</value>
+		<value name="icue_version">3.37.140</value>
+		<value name="keyboard_1_connected_now">false</value>
+		<value name="keyboard_1_device_id">10ef761e9a6bf03eef55709254eb5134</value>
+		<value name="keyboard_1_first_appearance">2021-02-05T14:11:20Z</value>
+		<value name="keyboard_1_last_appearance"></value>
+		<value name="keyboard_1_manufacturer">Razer</value>
+		<value name="keyboard_1_model_name">Razer BlackWidow Ultimate</value>
+		<value name="keyboard_1_pid">011a</value>
+		<value name="keyboard_1_vid">1532</value>
+		<value name="keyboard_2_connected_now">false</value>
+		<value name="keyboard_2_device_id">0151cb3116b1d5e4816d33817c12d5d5</value>
+		<value name="keyboard_2_first_appearance">2021-02-24T15:34:22Z</value>
+		<value name="keyboard_2_last_appearance">2021-02-25T07:59:01Z</value>
+		<value name="keyboard_2_manufacturer">SEMITEK</value>
+		<value name="keyboard_2_model_name">USB-HID Gaming Keyboard</value>
+		<value name="keyboard_2_pid">0907</value>
+		<value name="keyboard_2_vid">1ea7</value>
+		<value name="keyboard_3_connected_now">true</value>
+		<value name="keyboard_3_device_id">655e2f06f19f672526faec83804de6c6</value>
+		<value name="keyboard_3_first_appearance">2021-02-25T07:59:17Z</value>
+		<value name="keyboard_3_last_appearance">2021-02-27T11:32:58Z</value>
+		<value name="keyboard_3_manufacturer">SEMITEK</value>
+		<value name="keyboard_3_model_name">USB-HID Gaming Keyboard</value>
+		<value name="keyboard_3_pid">0907</value>
+		<value name="keyboard_3_vid">1ea7</value>
+		<value name="keyboard_4_connected_now">false</value>
+		<value name="keyboard_4_device_id">c6f2ae50efbc7c7496b7a82dfa98f72b</value>
+		<value name="keyboard_4_first_appearance">2021-02-25T10:03:31Z</value>
+		<value name="keyboard_4_manufacturer">Logitech</value>
+		<value name="keyboard_4_model_name">USB Receiver</value>
+		<value name="keyboard_4_pid">c52b</value>
+		<value name="keyboard_4_vid">046d</value>
+		<value name="last_appearance_at">2021-02-27T11:40:22.431Z</value>
+		<value name="macos_code_name">High Sierra</value>
+		<value name="motherboard_manufacturer">Apple</value>
+		<value name="motherboard_name">Apple</value>
+		<value name="mouse_1_connected_now">true</value>
+		<value name="mouse_1_connection_type">wired</value>
+		<value name="mouse_1_device_id">92eea65deb3efc7b6f9cd12637082201</value>
+		<value name="mouse_1_first_appearance">2021-02-05T13:53:37Z</value>
+		<value name="mouse_1_fw_ver">???</value>
+		<value name="mouse_1_last_appearance">2021-02-27T11:32:58Z</value>
+		<value name="mouse_1_manufacturer">Corsair</value>
+		<value name="mouse_1_model_name">Scimitar</value>
+		<value name="mouse_1_pid">011a</value>
+		<value name="mouse_1_vid">1532</value>
+		<value name="mouse_2_connected_now">false</value>
+		<value name="mouse_2_connection_type">wired</value>
+		<value name="mouse_2_device_id">627b628ca3922d18ef1907b4218580fe</value>
+		<value name="mouse_2_first_appearance">2021-02-05T13:53:37Z</value>
+		<value name="mouse_2_fw_ver">???</value>
+		<value name="mouse_2_last_appearance">2021-02-24T16:35:15Z</value>
+		<value name="mouse_2_manufacturer">Razer</value>
+		<value name="mouse_2_model_name">Razer BlackWidow Ultimate</value>
+		<value name="mouse_2_pid">011a</value>
+		<value name="mouse_2_vid">1532</value>
+		<value name="mouse_3_connected_now">false</value>
+		<value name="mouse_3_last_appearance">2021-02-27T09:41:03Z</value>
+		<value name="mouse_4_connected_now">false</value>
+		<value name="num_of_connected_corsair_devices">1</value>
+		<value name="num_of_corsair_coolers_connected">0</value>
+		<value name="num_of_corsair_fans_connected">0</value>
+		<value name="num_of_corsair_psu_connected">0</value>
+		<value name="num_of_corsair_ram_modules_connected">0</value>
+		<value name="os_architecture">x64</value>
+		<value name="os_name">Mac OS X</value>
+		<value name="os_version">10.13.6 17G14042</value>
+		<value name="osd_activated">false</value>
+		<value name="previous_close_timestamp">1614425492724</value>
+		<value name="ram_frequency">empty</value>
+		<value name="ram_manufacturer">empty</value>
+		<value name="ram_size">16384</value>
+		<value name="ram_type">empty</value>
+		<value name="session_ended">false</value>
+		<value name="show_only_connected_devices">true</value>
+		<value name="start_on_system_startup">false</value>
+		<value name="system_language">English</value>
+		<value name="time_after_last_session_end">0</value>
+		<value name="time_in_background_session_duration">0</value>
+		<value name="time_in_foreground_session_duration">0</value>
+		<value name="total_icue_starts">19</value>
+		<value name="total_num_of_icue_starts">19</value>
+		<value name="total_time_icue_used">17383</value>
+		<value name="total_time_used">1042573742</value>
+		<value name="user_id">d4a58936da068fb3f825c99c272f5190f1c6edaeb5b738e7c3af2de8a40998b5d4494de5b1a40b98633480d52ae1259fcbfce099e5e0de6deee0f5fec2714218</value>
+	</map>
+	<map name="DeviceListWatcher">
+		<map name="device_list">
+			<map name="1">
+				<value name="device_id">10ef761e9a6bf03eef55709254eb5134</value>
+				<value name="device_type">1</value>
+				<value name="is_connected">false</value>
+				<value name="is_corsair">false</value>
+				<value name="last_appearance"></value>
+				<value name="model_name">Razer BlackWidow Ultimate</value>
+				<value name="serial_number"></value>
+			</map>
+			<map name="2">
+				<value name="device_id">92eea65deb3efc7b6f9cd12637082201</value>
+				<value name="device_type">2</value>
+				<value name="is_connected">true</value>
+				<value name="is_corsair">true</value>
+				<value name="last_appearance">2021-02-27T14:31:32.724</value>
+				<value name="model_name">Scimitar</value>
+				<value name="serial_number">0901B039AEBD150156268006F5001941</value>
+			</map>
+			<map name="3">
+				<value name="device_id">627b628ca3922d18ef1907b4218580fe</value>
+				<value name="device_type">2</value>
+				<value name="is_connected">false</value>
+				<value name="is_corsair">false</value>
+				<value name="last_appearance">2021-02-24T19:35:15.408</value>
+				<value name="model_name">Razer BlackWidow Ultimate</value>
+				<value name="serial_number"></value>
+			</map>
+			<map name="4">
+				<value name="device_id">0151cb3116b1d5e4816d33817c12d5d5</value>
+				<value name="device_type">1</value>
+				<value name="is_connected">false</value>
+				<value name="is_corsair">false</value>
+				<value name="last_appearance">2021-02-25T10:59:01.854</value>
+				<value name="model_name">USB-HID Gaming Keyboard</value>
+				<value name="serial_number">SN0000000001</value>
+			</map>
+			<map name="5">
+				<value name="device_id">655e2f06f19f672526faec83804de6c6</value>
+				<value name="device_type">1</value>
+				<value name="is_connected">true</value>
+				<value name="is_corsair">false</value>
+				<value name="last_appearance">2021-02-27T14:31:32.724</value>
+				<value name="model_name">USB-HID Gaming Keyboard</value>
+				<value name="serial_number">SN0000000001</value>
+			</map>
+			<map name="6">
+				<value name="device_id">c6f2ae50efbc7c7496b7a82dfa98f72b</value>
+				<value name="device_type">2</value>
+				<value name="is_connected">false</value>
+				<value name="is_corsair">false</value>
+				<value name="last_appearance">2021-02-27T12:41:03.560</value>
+				<value name="model_name">USB Receiver</value>
+				<value name="serial_number"></value>
+			</map>
+			<value name="size">6</value>
+		</map>
+		<value name="device_list_saved_correctly">false</value>
+	</map>
+	<map name="Devices">
+		<map name="Scimitar">
+			<map name="{ebf8fa47-4bb5-4054-a6e7-2f441d30ec75}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">SCIMITAR</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-02-05T16:53:37.820</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%001</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{875fae22-051c-42b3-91bf-0115fdb0b565}</value>
+			</map>
+		</map>
+		<binary name="UniqueDeviceIds">%00%00%04%00%00%00%00%005QHash%3CQUuid%2CUniqueDeviceIdStorage%3A%3AUniqueDeviceData%3E%00%00%00%00%01%EB%F8%FAGK%B5%40T%A6%E7%2FD%1D0%ECu%00%00%1B%1C%00%00%1B%1E%00%00%00%40%000%009%000%001%00B%000%003%009%00A%00E%00B%00D%001%005%000%001%005%006%002%006%008%000%000%006%00F%005%000%000%001%009%004%001%FF%FF%FF%FF</binary>
+	</map>
+	<value name="Language">en</value>
+	<map name="Profiles">
+		<binary name="StoredToDevice">%00%00%00%09%00%00%00%00%01%00%00%00%1E%00T%89%86%91U%F7OB%B3SCw%9Fh%C1%25</binary>
+	</map>
+	<map name="QQControlsFileDialog">
+		<binary name="favoriteFolders">%00%00%00%09%00%00%00%00%00</binary>
+		<value name="height">0</value>
+		<value name="sidebarSplit">118.575</value>
+		<value name="sidebarVisible">true</value>
+		<value name="sidebarWidth">80</value>
+		<value name="width">0</value>
+	</map>
+	<map name="SwUpdate">
+		<value name="LastCheckDate">2021-03-12</value>
+	</map>
+</config>
